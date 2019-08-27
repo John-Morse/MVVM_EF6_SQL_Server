@@ -7,7 +7,7 @@
     <ProjectGuid>{F8708623-0CB1-44D2-AD16-B6BBE3E0ABC3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MVVM_Template.CrossCutting</RootNamespace>
+    <RootNamespace>MVVM_EF6.CrossCutting</RootNamespace>
     <AssemblyName>CrossCutting</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

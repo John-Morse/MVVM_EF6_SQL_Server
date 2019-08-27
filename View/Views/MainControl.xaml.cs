@@ -1,4 +1,4 @@
-﻿namespace MVVM_Template.View
+﻿namespace MVVM_EF6.View
 {
     using System.Windows.Controls;
 

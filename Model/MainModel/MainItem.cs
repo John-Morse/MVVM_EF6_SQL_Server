@@ -1,4 +1,4 @@
-﻿namespace MVVM_Template.Model
+﻿namespace MVVM_EF6.Model
 {
     /// <summary>
     /// MaineItem model

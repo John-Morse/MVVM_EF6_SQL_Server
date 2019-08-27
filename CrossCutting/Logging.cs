@@ -1,4 +1,4 @@
-﻿namespace MVVM_Template.CrossCutting
+﻿namespace MVVM_EF6.CrossCutting
 {
     using System;
 

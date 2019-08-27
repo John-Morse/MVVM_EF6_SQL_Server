@@ -7,7 +7,7 @@
     <ProjectGuid>{DD952791-AF58-4625-A576-2150C2238858}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MVVM_Template.Model</RootNamespace>
+    <RootNamespace>MVVM_EF6.Model</RootNamespace>
     <AssemblyName>Model</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

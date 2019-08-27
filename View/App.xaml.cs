@@ -1,7 +1,7 @@
-﻿namespace MVVM_Template.View
+﻿namespace MVVM_EF6.View
 {
     using GalaSoft.MvvmLight.Threading;
-    using MVVM_Template.CrossCutting;
+    using MVVM_EF6.CrossCutting;
     using System.Windows;
 
     /// <summary>

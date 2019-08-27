@@ -1,6 +1,6 @@
-﻿namespace MVVM_Template.View
+﻿namespace MVVM_EF6.View
 {
-    using MVVM_Template.ViewModel;
+    using MVVM_EF6.ViewModel;
     using System.Windows;
 
     /// <summary>

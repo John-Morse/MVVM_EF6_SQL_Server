@@ -1,4 +1,4 @@
-﻿namespace MVVM_Template.ViewModel
+﻿namespace MVVM_EF6.ViewModel
 {
     /// <summary>
     /// ICloseable interface
